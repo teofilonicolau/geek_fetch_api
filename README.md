@@ -19,6 +19,9 @@ O projeto é composto pelos seguintes arquivos:
 
 - ![image](https://github.com/teofilonicolau/geek_fetch_api/assets/97030160/72b9c50a-5d98-4999-bf9b-7042fddb62cb)
 
+## Página:
+https://teofilonicolau.github.io/geek_fetch_api/
+
 
 
 ## Como Executar o Projeto
